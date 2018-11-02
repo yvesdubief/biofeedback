@@ -11,15 +11,15 @@ The sensors used in the study are:
 <ul>
     <li> mbienlan IMU including
         <ul>
-            <li> accelerometer ($\mathrm{m}^2/\mathrm{s}$)</li>
-            <li> gyroscope ($\mathrm{rad/s}$)</li>
-            <li> magnetometer ($\mathrm{T}$)</li>
+            <li> accelerometer (m<sup>2</sup>/)</li>
+            <li> gyroscope (rad/s)</li>
+            <li> magnetometer (T)</li>
         </ul>
     </li>
     <li> Garmin connect including
         <ul>
-            <li> Power ($\mathrm{W}$): Powertap P1 pedals </li>
-            <li> Speed ($\mathrm{m/s}$): Garmin speed sensor (attached on rear wheel hub)</li>
-            <li> Cadence ($\mathrm{rpm}$): Garmin cadence sensor (attached on rear wheel hub)</li>
+            <li> Power (W): Powertap P1 pedals </li>
+            <li> Speed (m/s)s: Garmin speed sensor (attached on rear wheel hub)</li>
+            <li> Cadence (rpm): Garmin cadence sensor (attached on left crank)</li>
         </ul>
     </ul>
