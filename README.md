@@ -9,7 +9,7 @@ Theses notebook explores codes and functions towards:
     
 The sensors used in the study are:
 <ul>
-    <li> mbienlan IMU including
+    <li> <a href="https://mbientlab.com">mbientlab</a> IMU MetaMotionR+ including
         <ul>
             <li> accelerometer (m<sup>2</sup>/s)</li>
             <li> gyroscope (rad/s)</li>
